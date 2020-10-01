@@ -1,7 +1,7 @@
 # What is a merge conflict?
 
 When you try to merge another branch into your current working branch, you are taking changes from another context and combining them with your current working files.
-If two people have changed the same lines in the same file, or if one person decided to delete it while the other person decided to modify it, Git cannot identify which is the correct version. Git will then mark the file as having a conflict - which you'll have to resolve before you can continue your work.
+If two people have changed the same lines in the same file, or if one person decided to delete it while the other person decided to modify it, Git cannot identify which is the correct version. Git will then mark the file as having a conflict - which you will have to resolve before you can continue your work.
 
 # How to resolve a merge conflict?
 
